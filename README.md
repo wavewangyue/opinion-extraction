@@ -19,11 +19,11 @@
 ### 数据集
 
 > SemEval 2014 ( Restaurant ) ：（标注好的数据的下载也在上面那个百度网盘里）这是一个标注数据集，看到很多论文都在用，实验使用了Restaurant 的那一部分数据，数据内容是用户在网上对餐厅的评价
-> 从数据示例看，数据集只提供了角度词（aspectTerm）的抽取结果，没有情感词的抽取结果，训练加测试数据总共3841条，需要人工标注情感词结果（WTF...）不过还好我拿到了别人标注过的一个结果，提供者是南阳理工大学的 Wang Wenya （感激不尽），也是下面要说的这个参考文献的作者
+> 从数据示例看，数据集只提供了角度词（aspectTerm）的抽取结果，没有情感词的抽取结果，训练加测试数据总共3841条，需要人工标注情感词结果（WTF...）不过还好我拿到了别人标注过的一个结果，提供者是南洋理工大学的 Wang Wenya （感激不尽），也是下面要说的这个参考文献的作者
 
 ### 参考文献
 
-> Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms（AIII 2017）
+> Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms（AAAI 2017）
 > 因为这个论文是目前这个数据集上成绩最好的，准确度达到了 0.85+ ，本来想实现一下然后改进一下投个论文啥的，后来我想多了。。。论文中提出的模型不知道高到哪里去了，根本看不懂，也请教过世外高人神秘高手都没什么结果。然后就直接照着写了一遍，结果跑出来准确度只能到 0.7，因为不理解模型原理也没法去调试，所以就放弃了。。。
 
 > 有兴趣的可以去研究下这个论文，目前作者已经提供了源代码下载 https://github.com/happywwy/Coupled-Multi-layer-Attentions
