@@ -28,7 +28,8 @@
 
 > 有兴趣的可以去研究下这个论文，目前作者已经提供了源代码下载 https://github.com/happywwy/Coupled-Multi-layer-Attentions
 > 在这里放一下模型的架构图，简单来说就是 tensor+GRU+attention 三个内容的组合，反正不能较劲，一贯原则，看不懂就撤
-![](https://gitee.com/uploads/images/2017/1031/104625_5c851db9_1452419.jpeg "v2-a4d4dd6598cb76a131342e0e926ab566_r.jpg")
+
+![](https://pic1.zhimg.com/80/v2-a4d4dd6598cb76a131342e0e926ab566_hd.jpg)
 
 ### 还是先上结论
 
