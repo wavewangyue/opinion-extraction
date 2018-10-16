@@ -1,6 +1,6 @@
 # 评论上的情感分析：主题与情感词抽取 2017.10.26
 
-完整文档转到知乎专栏： [https://zhuanlan.zhihu.com/p/30468509](http://https://zhuanlan.zhihu.com/p/30468509)
+完整文档转到知乎专栏： [https://zhuanlan.zhihu.com/p/30468509](https://zhuanlan.zhihu.com/p/30468509)
 
 ### 问题描述
 
